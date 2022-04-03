@@ -1,3 +1,13 @@
+# Prismic NextJS Netlify
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4a21a1ec-d7dc-4607-93f9-1feef3a09336/deploy-status)](https://app.netlify.com/sites/transcendent-elf-77d0ed/deploys)
+
+This is a [Next.js](https://nextjs.org/) v12.0.4 starter project with [Prismic](https://prismic.io/) and set up to be instantly deployed to [Netlify](https://www.netlify.com/)!
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/dguardia/prismic-next&utm_source=github&utm_medium=nextprismic-cs&utm_campaign=davidMedallia)
+
+(If you click this button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify)
+
 # Prismic Slice Machine & Next.js Example Multi-Page Site
 
 > [Next.js](https://nextjs.org/) example multi-Page site with navigation project with content managed in [Prismic](https://prismic.io) and components built with Slice Machine
