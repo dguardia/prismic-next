@@ -1,0 +1,50 @@
+{
+  "id": "medallia_top_part_one",
+  "type": "SharedSlice",
+  "name": "MedalliaTopPartOne",
+  "description": "MedalliaTopPartOne",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "MedalliaTopPartOne",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading1",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "single": "paragraph",
+            "label": "Description",
+            "placeholder": "A nice description of your feature"
+          }
+        },
+        "intro": {
+          "config": {
+            "label": "Intro",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          },
+          "type": "StructuredText"
+        },
+        "numbers": {
+          "config": {
+            "label": "Numbers",
+            "placeholder": ""
+          },
+          "type": "Number"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

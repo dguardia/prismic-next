@@ -1,0 +1,17 @@
+{
+  "slices": {
+    "TextSlice": {},
+    "BannerSlice": {},
+    "FeaturedImage": {},
+    "FullWidthImage": {},
+    "QuoteSlice": {},
+    "ImageGallery": {},
+    "MedalliaTopPartOne": {}
+  },
+  "_cts": {
+    "page": {},
+    "home-page": {},
+    "menu": {},
+    "medallia-homepage": {}
+  }
+}

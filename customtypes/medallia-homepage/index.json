@@ -1,0 +1,9 @@
+{
+  "id": "medallia-homepage",
+  "label": "MedalliaHome",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {}
+  }
+}
